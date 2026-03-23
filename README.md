@@ -14,7 +14,7 @@
 ## 💡 About Me
 
 * 🎯 Strong foundation in **Data Structures & Algorithms (DSA)**
-* 📈 Solved **X+ problems** across coding platforms (update this)
+* 📈 Solved **200+ problems** across all coding platforms 
 * 🧠 Consistent with **GeeksforGeeks POTD & LeetCode**
 * ⚙️ Passionate about building **scalable backend systems & AI solutions**
 * 🚀 Actively seeking **Software Engineering Internships**
